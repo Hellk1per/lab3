@@ -1,0 +1,32 @@
+body { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    width: 100%; 
+    background-image: url(i.webp); 
+    background-size: 900px 900px; 
+} 
+ 
+h1 { 
+    color: rgb(0, 0, 0) 
+    font-size: 100px; 
+    margin-left: 700px; 
+} 
+ 
+h2 { 
+    color: rgb(0, 0, 0); 
+    font-size: 60px; 
+    margin-left: 615px; 
+} 
+ 
+h3 { 
+    color: rgb(0, 0, 0); 
+    font-size: 25px; 
+    margin-left: 600px; 
+} 
+ 
+a { 
+    color: rgb(255, 255, 255) 
+} 
+ 
+h4 { 
+    margin-left: 800px; 
+}
